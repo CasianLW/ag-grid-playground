@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+## Tech used
+
+react typescript
+tailwindcss
+ag-grid-react
+redux react-redux redux-saga
+react-query
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
